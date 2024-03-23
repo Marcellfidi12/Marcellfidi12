@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marcell+Fia+Dinata;" />
 </h1>
 
-<h3 align="center">Saya adalah seorang programmer pemula asal indonesia</h3>
+<h3 align="center">Saya adalah seorang pelajar</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently students on **SMK Mahardhika Batujajar**
  
  🌱 I’m currently learning **HTML,CSS,Javascript,SQL**
 
@@ -49,6 +49,5 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
 </div>
 <br/>
