@@ -12,11 +12,11 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **HTML,CSS,Javascript,SQL**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **HTML,CSS,Javascript,SQL... or anything [here](https://github.com/Marcellfidi12/)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **I Like Game RDR2,GTA V**
 
  </div>
  
