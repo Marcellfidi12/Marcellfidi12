@@ -51,13 +51,6 @@
   
   <br/><br/><br/>
 </div>
-
-<hr/>
-
-<br/><br/>
-
-<hr/>
-
 <br/>
 
 <div align="center">
