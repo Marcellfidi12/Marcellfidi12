@@ -12,9 +12,9 @@
  
  🔭 I’m currently students on **SMK Mahardhika Batujajar**
  
- 🌱 I’m currently learning **HTML,CSS,Javascript,SQL**
+ 🌱 I’m currently learning **HTML,CSS,Javascript,Laravel,React JS,SQL**
 
-💬 Ask me about **HTML,CSS,Javascript,SQL... or anything [here](https://github.com/Marcellfidi12/)**
+💬 Ask me about **HTML,CSS,Javascript,Laravel,React JS,SQL... or anything [here](https://github.com/Marcellfidi12/)**
 
 ⚡ Fun fact **I Like Game RDR2,GTA V**
 
